@@ -1,0 +1,10 @@
+entity_id,movie_name,rating
+10393,Tarzan_(1999_film), 4
+3032,Aladdin_(1992_Disney_film), 4
+7582,Blade_Runner, 4
+14491,The_Shawshank_Redemption, 5
+11147,The_Dark_Knight_(film), 5
+2212,Doctor_Dolittle_(film), 4
+8638,Armageddon_(1998_film), 4
+10728,Gladiator_(2000_film), 4
+9171,Toy_Story_2, 5

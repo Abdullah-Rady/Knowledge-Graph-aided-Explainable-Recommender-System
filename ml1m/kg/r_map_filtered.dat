@@ -1,0 +1,14 @@
+relation_id	relation_url
+0	http://dbpedia.org/ontology/cinematography
+1	http://dbpedia.org/property/productionCompanies
+2	http://dbpedia.org/property/composer
+3	http://purl.org/dc/terms/subject
+4	http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+5	http://dbpedia.org/ontology/starring
+6	http://dbpedia.org/ontology/country
+7	http://dbpedia.org/ontology/wikiPageWikiLink
+8	http://purl.org/linguistics/gold/hypernym
+9	http://dbpedia.org/ontology/editing
+10	http://dbpedia.org/property/producers
+11	http://dbpedia.org/property/allWriting
+12	http://dbpedia.org/ontology/director

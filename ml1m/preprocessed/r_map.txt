@@ -1,0 +1,12 @@
+relation_id	relation_url
+0	http://dbpedia.org/ontology/cinematography
+1	http://dbpedia.org/property/productionCompanies
+2	http://dbpedia.org/property/composer
+3	http://purl.org/dc/terms/subject
+10	http://dbpedia.org/ontology/starring
+11	http://dbpedia.org/ontology/country
+12	http://dbpedia.org/ontology/wikiPageWikiLink
+14	http://dbpedia.org/ontology/editing
+15	http://dbpedia.org/property/producers
+16	http://dbpedia.org/property/allWriting
+18	http://dbpedia.org/ontology/director

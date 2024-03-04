@@ -1,0 +1,12 @@
+entity_id,movie_name,rating
+10728,Gladiator_(2000_film),4
+13061,Die_Hard,3
+6293,Volcano_(1997_film),3
+2088,Die_Hard_with_a_Vengeance,4
+1121,Die_Hard_2,4
+13293,Big_Momma's_House_2,4
+7630,Predator_2,3
+6637,Home_Alone_2:_Lost_in_New_York,4
+10300,Speed_2:_Cruise_Control,2
+7335,Alien:_Resurrection,4
+8514,Home_Alone_3,4

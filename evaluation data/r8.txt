@@ -1,0 +1,12 @@
+entity_id,movie_name,rating
+1032,Awakenings,4
+3662,Flawless_(1999_film),4
+371,The_Deer_Hunter,4
+12434,The_Untouchables_(film),4
+8331,We're_No_Angels_(1989_film),4
+4005,The_Goodbye_Girl,4
+6739,Misery_(film),4
+8503,Casino_(film),4
+12714,Flashdance,4
+5603,Angel_Heart,4
+9376,First_Blood,4

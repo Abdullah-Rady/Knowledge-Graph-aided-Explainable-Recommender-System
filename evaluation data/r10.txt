@@ -1,0 +1,14 @@
+entity_id,movie_name,rating
+171,Toy_Story_2,5
+2451,Star_Trek:_First_Contact,3
+2524,Splash_(film),4
+12021,Volunteers_(film),3
+5770,Grace_of_My_Heart,5
+8369,That_Thing_You_Do!,3
+12021,Volunteers_(film),2
+8731,A_League_of_Their_Own,4
+8215,Sleepless_in_Seattle,5
+8731,A_League_of_Their_Own,4
+318,What_Lies_Beneath,5
+2011,The_Remains_of_the_Day_(film),4
+11756,Bachelor_Party_(1984_film),2

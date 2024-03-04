@@ -1,0 +1,18 @@
+entity_id,movie_name,rating
+6807,Fight_Club,5
+7039,Twilight_(2008_film),1
+13836, Men_inBlack(film),4
+10139,The_Breakfast_Club,1
+10506,Speed_(1994_film),3
+8526,X-Men_(film),4
+10728,Gladiator_(2000_film),5
+13061,Die_Hard_2,4
+6293,Volcano_(1997_film),4
+2088,Die_Hard_with_a_Vengeance,3
+1121,Die_Hard_2,4
+13293,Big_Momma's_House_2,3
+7630,Predator_2,4
+6637,Home_Alone_2,2
+10300,Speed_2:_Cruise_Control,2
+7335,Alien:_Resurrection,4
+8514,Home_Alone_3,4

@@ -1,0 +1,20 @@
+entity_id,movie_name,rating
+13336,Forrest_Gump,4
+14491,The_Shawshank_Redemption,5
+9171,Toy_Story_2,4
+13694,Titanic_(1997_film),3
+9922,Dumb_and_Dumber,3
+11803,Jurassic_Park_(film),4
+10003,Man_of_Steel_(film),5
+11147,The_Dark_Knight_(film),5
+14294,Terminator_Salvation,3
+5271,The_Three_Musketeers_(1993_film),4
+963,The_Mummy_(1999_film),4
+1707,The_Matrix_(franchise),5
+3228,Police_Academy_2:_Their_First_Assignment,4
+6807,Fight_Club,5
+7039,Twilight_(2008_film),2
+13836, Men_inBlack(film),4
+10139,The_Breakfast_Club,1
+10506,Speed_(1994_film),4
+8526,X-Men_(film),4

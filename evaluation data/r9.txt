@@ -1,0 +1,15 @@
+entity_id,movie_name,rating
+8639,Shaft_(2000_film),4
+8670,American_Psycho_(film),4
+3197,Henry_V_(1989_film),4
+355,Batman_Forever,4
+10054,Velvet_Goldmine,4
+12034,Pocahontas_(1995_film),4
+5145,Newsies,4
+5145,Newsies,4
+11030,Batman_&_Robin_(film),4
+8639,Shaft_(2000_film),4
+10054,Velvet_Goldmine,4
+12034,Pocahontas_(1995_film),4
+3197,Henry_V_(1989_film),4
+1976,Raging_Bull,4
